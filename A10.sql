@@ -42,7 +42,7 @@ delete from professores;
 -- Consulta a tabela, mas os dados foram apagados
 select * from professores;
 
--- Agora vamos fazer o backup
+-- Agora vamos restaurar o backup
 -- * Seleciona a base de dados;
 -- * Restore;
 -- * Seleciona o arquivo que foi salvo como backup;
